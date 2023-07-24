@@ -1,0 +1,4 @@
+geometry=MnO_111_STACK.cif
+NN_range=4
+cutoffs=10.12,20.0,30.4,40.5
+norms=1.0,0.78,1.0,1.0,0.025,0.0187,1.0,0.076 

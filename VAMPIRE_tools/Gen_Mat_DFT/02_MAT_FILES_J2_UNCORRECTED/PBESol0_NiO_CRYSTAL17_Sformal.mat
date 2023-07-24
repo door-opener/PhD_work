@@ -1,0 +1,30 @@
+##############################################
+#01_IN_FILES/PBESol0_NiO_CRYSTAL17, J2/J1 ~ -8.96
+##############################################
+#DAMPING!
+#If LLG-HEUN -> 0.1 - 1.0
+#If MC -> 1.0
+##############################################
+material:num-materials=3
+##############################################
+###################MAT1#######################
+material[1]:material-name=Ni
+material[1]:damping-constant=1.00
+material[1]:atomic-spin-moment=1.0000 !muB
+material[1]:material-element="Ni"
+material[1]:density=1.00
+material[1]:initial-spin-direction=random
+material[1]:exchange-matrix[1] =  4.0781519691E-22
+material[1]:exchange-matrix[2] =  -3.6540047675E-21
+###################MAT2#######################
+material[2]:material-name=Ni
+material[2]:damping-constant=1.00
+material[2]:atomic-spin-moment=1.0000 !muB
+material[2]:material-element="Ni"
+material[2]:density=1.00
+material[2]:initial-spin-direction=random
+material[2]:exchange-matrix[2] =  4.0781519691E-22
+material[2]:exchange-matrix[1] =  -3.6540047675E-21
+###################MAT3#######################
+material[3]:material-name="O"
+material[3]:non-magnetic

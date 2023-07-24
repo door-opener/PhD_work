@@ -1,0 +1,31 @@
+##############################################
+#01_IN_FILES/PBE0_CRYSTAL17, J2/J1 ~ 1.10
+#J2 HAS BEEN CORRECTED!
+##############################################
+#DAMPING!
+#If LLG-HEUN -> 0.1 - 1.0
+#If MC -> 1.0
+##############################################
+material:num-materials=3
+##############################################
+###################MAT1#######################
+material[1]:material-name=Mn
+material[1]:damping-constant=1.00
+material[1]:atomic-spin-moment=2.5000 !muB
+material[1]:material-element="Mn"
+material[1]:density=1.00
+material[1]:initial-spin-direction=random
+material[1]:exchange-matrix[1] =  -1.5375932439E-22
+material[1]:exchange-matrix[2] =  -1.6948496506E-22
+###################MAT2#######################
+material[2]:material-name=Mn
+material[2]:damping-constant=1.00
+material[2]:atomic-spin-moment=2.5000 !muB
+material[2]:material-element="Mn"
+material[2]:density=1.00
+material[2]:initial-spin-direction=random
+material[2]:exchange-matrix[2] =  -1.5375932439E-22
+material[2]:exchange-matrix[1] =  -1.6948496506E-22
+###################MAT3#######################
+material[3]:material-name="O"
+material[3]:non-magnetic
