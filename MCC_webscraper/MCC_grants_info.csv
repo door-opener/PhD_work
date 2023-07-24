@@ -1,0 +1,161 @@
+Researcher,Code,GrantID,Start,End,Title,Value
+S Woodley,smw,EP/W026775/1,01/12/2021,30/11/2024,Particles At eXascale on High Performance,3041191
+S Woodley,smw,EP/T026715/2,01/11/2021,28/05/2025,CCP-QC: Collaborative Computational Project - Quantum,140063
+S Woodley,smw,EP/W00772X/2,01/11/2021,01/08/2024,Quantum Enhanced and Verified Exascale Computing,1007642
+S Woodley,smw,EP/W007711/1,02/08/2021,01/08/2024,Software Environment for Actionable & VVUQ-evaluated,728470
+S Woodley,smw,EP/T022213/1,01/01/2020,31/12/2023,The Materials and Molecular Modelling,4510208
+S Woodley,smw,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+S Woodley,smw,EP/W032260/1,01/11/2021,31/03/2022,Introducing heterogeneous HPC solutions to UK's,757879
+S Woodley,smw,EP/W00772X/1,02/08/2021,31/10/2021,Quantum Enhanced and Verified Exascale Computing,1015931
+S Woodley,smw,EP/T026715/1,01/06/2020,31/10/2021,CCP-QC: Collaborative Computational Project - Quantum,163421
+S Woodley,smw,EP/V001507/1,01/05/2020,31/12/2021,Materials and Molecular Modelling Exascale Design,95728
+A Sokol,sok,EP/W014580/1,01/04/2022,31/03/2026,Predictive multiscale free energy simulations of,834869
+A Sokol,sok,EP/W026775/1,01/12/2021,30/11/2024,Particles At eXascale on High Performance,3041191
+A Sokol,sok,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+A Sokol,sok,EP/R043612/1,01/10/2018,31/03/2022,Boundary Conditions for Atomistic Simulation of,442958
+A Sokol,sok,EP/R001847/1,01/01/2018,30/04/2022,Transition metal controlled nitrogen chemistry in,1022120
+R Catlow,cat,EP/W017075/1,16/05/2022,15/05/2028,New perspectives in photocatalysis and near-surface,7902074
+R Catlow,cat,EP/W021463/1,01/05/2022,30/04/2027,The UK Dynamic Nuclear Polarisation Magic,2881145
+R Catlow,cat,EP/W014580/1,01/04/2022,31/03/2026,Predictive multiscale free energy simulations of,834869
+R Catlow,cat,EP/T026715/2,01/11/2021,28/05/2025,CCP-QC: Collaborative Computational Project - Quantum,140063
+R Catlow,cat,EP/W00772X/2,01/11/2021,01/08/2024,Quantum Enhanced and Verified Exascale Computing,1007642
+R Catlow,cat,EP/T028629/1,20/07/2021,19/07/2025,Next generation ammonia synthesis: a highly,488797
+R Catlow,cat,EP/V011863/1,01/01/2021,31/12/2024,UKRI Interdisciplinary Centre for Circular Chemical,4436401
+R Catlow,cat,EP/S030468/1,01/10/2019,30/09/2023,New trimetallic nanoparticles as catalysts for,1530291
+R Catlow,cat,EP/R026645/1,01/12/2018,30/11/2023,The UK Catalysis Hub - 'Science':,4010674
+R Catlow,cat,EP/R026939/1,01/12/2018,30/11/2023,The UK Catalysis Hub,2201661
+R Catlow,cat,EP/R026815/1,01/12/2018,30/11/2023,The UK Catalysis Hub - 'Science':,3683535
+R Catlow,cat,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+R Catlow,cat,EP/W00772X/1,02/08/2021,31/10/2021,Quantum Enhanced and Verified Exascale Computing,1015931
+R Catlow,cat,EP/T026715/1,01/06/2020,31/10/2021,CCP-QC: Collaborative Computational Project - Quantum,163421
+R Catlow,cat,EP/R043612/1,01/10/2018,31/03/2022,Boundary Conditions for Atomistic Simulation of,442958
+R Catlow,cat,EP/R001847/1,01/01/2018,30/04/2022,Transition metal controlled nitrogen chemistry in,1022120
+A Shluger,shl,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+A Shluger,shl,EP/R034540/1,01/04/2018,31/03/2023,Defect Functionalized Sustainable Energy Materials: From,470811
+B Slater,ben,EP/W030489/1,01/05/2022,30/04/2025,CP2K For Emerging Architectures And Machine,525899
+B Slater,ben,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+J Harding,har,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+J Harding,har,EP/R018820/1,01/03/2018,29/02/2024,Crystallisation in the Real World: Delivering,5436236
+N Harrison,nic,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+D Willock,wil,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+S Islam,isl,EP/S032622/1,02/09/2019,01/09/2023,Supergen Storage Network Plus,1012009
+S Islam,isl,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+S Islam,isl,EP/R020485/1,01/04/2018,31/08/2021,Towards Self-scrubbing Stable and Scalable Perovskite,317753
+M Watkins,mat,EP/W030489/1,01/05/2022,30/04/2025,CP2K For Emerging Architectures And Machine,525899
+M Watkins,mat,EP/W026775/1,01/12/2021,30/11/2024,Particles At eXascale on High Performance,3041191
+M Watkins,mat,EP/T022213/1,01/01/2020,31/12/2023,The Materials and Molecular Modelling,4510208
+M Watkins,mat,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+M Watkins,mat,EP/W032260/1,01/11/2021,31/03/2022,Introducing heterogeneous HPC solutions to UK's,757879
+M Watkins,mat,EP/V001205/1,01/05/2020,31/07/2021,Materials and Molecular Modelling Exascale Design,50782
+K McKenna,mck,EP/V007211/1,01/04/2021,31/03/2026,International Network for Spintronics: From Material,438533
+K McKenna,mck,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+K McKenna,mck,EP/P023843/1,01/01/2018,31/03/2021,High-throughput screening of polycrystalline solar absorbers,478556
+G Day,day,EP/V026887/1,01/12/2021,30/11/2026,Digital navigation of chemical space for,8699373
+G Day,day,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+G Day,day,EP/S015418/1,29/10/2018,28/04/2020,Active Learning for Computational Polymorph Landscape,251033
+G Day,day,EP/R01339X/1,01/03/2018,28/02/2021,A Supramolecular Gel Phase Crystallisation,279757
+J Christie,jam,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+K Jelfs,kim,EP/W033356/1,01/04/2022,31/03/2023,Anion exchange membrane water electrolysis for,249433
+K Jelfs,kim,EP/V026887/1,01/12/2021,30/11/2026,Digital navigation of chemical space for,8699373
+K Jelfs,kim,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+C Lorenz,lor,EP/V049771/1,01/03/2021,30/11/2022,DisCoVer: Aptamer biosensors for the detection,383663
+C Lorenz,lor,EP/R029431/1,01/11/2018,31/12/2022,HIGH END COMPUTING MATERIALS CHEMISTRY,489316
+M Molinari,mol,EP/R010366/1,23/01/2018,31/01/2020,Computational Design and Engineering of Metal,93954
+M Dove,dov,EP/R035393/1,01/12/2018,30/11/2022,SOFTWARE DEFINED MATERIALS FOR DYNAMIC CONTROL,1331529
+M Dove,dov,EP/R021554/2,01/01/2019,31/10/2021,ISCF Wave 1:Designing Electrodes for Na,806576
+M Dove,dov,EP/R021554/1,01/01/2018,31/12/2018,ISCF Wave 1:Designing Electrodes for Na,1101992
+N de Leeuw,lee,EP/S515000/1,01/10/2018,30/09/2022,Cardiff University NPIF,200000
+N de Leeuw,lee,EP/S514998/1,01/10/2018,31/08/2020,Cardiff University Innov,84650
+L Kantorovitch,lev,EP/W026775/1,01/12/2021,30/11/2024,Particles At eXascale on High Performance,3041191
+L Kantorovitch,lev,EP/V049712/1,27/09/2021,26/09/2023,A New Spin On Atomic,71072
+S Parker,par,EP/T022078/1,01/02/2020,31/01/2023,GW4 Tier-2 HPC Centre for Advanced,4108144
+S Parker,par,EP/R023603/1,01/08/2018,31/01/2023,Emergent Nanomaterials (Critical Mass,458047
+S Mukhopadhyay,muk,EP/R013756/1,01/04/2018,31/03/2023,The Future Vaccine Manufacturing Research Hub,8968162
+A Michaelides,mic,EP/W030489/1,01/05/2022,30/04/2025,CP2K For Emerging Architectures And Machine,525899
+A Michaelides,mic,EP/T022159/1,31/01/2020,30/01/2024,Cambridge Service for Data Driven Discovery,4000000
+A Michaelides,mic,EP/T022213/1,01/01/2020,31/12/2023,The Materials and Molecular Modelling,4510208
+A Michaelides,mic,EP/W032260/1,01/11/2021,31/03/2022,Introducing heterogeneous HPC solutions to UK's,757879
+R Grau-Crespo,cre,EP/T022213/1,01/01/2020,31/12/2023,The Materials and Molecular Modelling,4510208
+R Grau-Crespo,cre,EP/W032260/1,01/11/2021,31/03/2022,Introducing heterogeneous HPC solutions to UK's,757879
+R Grau-Crespo,cre,EP/T020040/1,01/04/2020,31/03/2022,From the Indian Copper Belts to,609274
+A Mostofi,mos,EP/W029367/1,01/04/2022,31/03/2025,Supporting research communities with large-scale DFT,297873
+A Mostofi,mos,EP/T022213/1,01/01/2020,31/12/2023,The Materials and Molecular Modelling,4510208
+A Mostofi,mos,EP/S025324/1,01/06/2019,30/09/2022,Discovering twisted bilayer materials with strong,445157
+A Mostofi,mos,EP/W032260/1,01/11/2021,31/03/2022,Introducing heterogeneous HPC solutions to UK's,757879
+K Trachenko,kos,EP/W029006/1,01/04/2022,31/03/2025,Developing next-generation DL_POLY for the benefit,431161
+K Trachenko,kos,EP/T016337/1,01/07/2021,30/06/2024,Intermediate range order effects in radioactive,863375
+G Darling,dar,EP/V026887/1,01/12/2021,30/11/2026,Digital navigation of chemical space for,8699373
+C Grey,gre,EP/W017091/1,01/05/2022,30/04/2027,Harnessing vibration-induced enhancement of transport in,6846508
+C Grey,gre,EP/W021498/1,01/05/2022,30/04/2027,The UK Dynamic Nuclear Polarisation Magic,247949
+C Grey,gre,EP/S032622/1,02/09/2019,01/09/2023,Supergen Storage Network Plus,1012009
+M Alfredsson,alf,EP/S020160/1,01/10/2019,30/09/2023,MultiSense - Devising and Manufacturing mm-Wave,657999
+M Alfredsson,alf,EP/R02331X/1,01/05/2018,30/04/2022,Formulating and Manufacturing Low Profile Integrated,1289916
+P Goddard,pan,EP/S032819/1,01/12/2019,31/05/2023,Modelling radiation resistant low activation High,337695
+P Goddard,pan,EP/N001982/2,01/10/2018,31/12/2021,Design and high throughput microwave synthesis,366507
+J Hanna,han,EP/V007688/1,01/01/2021,31/12/2024,EPRSC Resource Only Strategic Equipment: the,953764
+C Freeman,fre,EP/R018820/1,01/03/2018,29/02/2024,Crystallisation in the Real World: Delivering,5436236
+D Scanlon,dos,EP/N001982/2,01/10/2018,31/12/2021,Design and high throughput microwave synthesis,366507
+M Sacchi,msa,EP/S01019X/1,01/10/2018,30/09/2023,TRANSCEND: Transformative Science and Engineering for,4587420
+M Sacchi,msa,EP/S029834/1,01/10/2019,31/03/2022,Tuning the Catalytic Activity of Doped,233815
+J Lischner,lis,EP/W017075/1,16/05/2022,15/05/2028,New perspectives in photocatalysis and near-surface,7902074
+J Lischner,lis,EP/S025324/1,01/06/2019,30/09/2022,Discovering twisted bilayer materials with strong,445157
+J Lischner,lis,EP/T003189/1,01/04/2019,31/03/2023,Health assessment across biological length scales,2793915
+J Lischner,lis,EP/P02985X/1,01/01/2018,30/06/2021,Aluminium nitride - graphene dual-mode sensors,1158109
+M Coppens,cop,EP/W019221/1,01/05/2022,30/04/2025,Nature-inspired bio-Syngas Technologies for Olefins,1168549
+M Coppens,cop,EP/S03305X/1,01/12/2019,30/11/2022,Frontier Engineering: Progression Grant in Nature-Inspired,758983
+A Striolo,str,EP/V032909/1,01/05/2021,30/04/2025,SusAgriChem - Sustainable Formulation of Agri-Chemicals,936263
+A Striolo,str,EP/T004282/1,16/05/2020,15/05/2023,CBET-EPSRC: Enhancing the CSMHyK fluid dynamics,487426
+N Kaltsoyannis,nik,EP/W016354/1,09/07/2022,08/07/2025,Relaying radicals for catalytic couplings: Catalysis,669167
+N Kaltsoyannis,nik,EP/T013842/1,01/10/2020,30/09/2024,Compositional and Structural Evolution of Plutonium,930945
+N Kaltsoyannis,nik,EP/T011289/1,01/11/2019,31/05/2023,National Nuclear User Facility at the,4417611
+N Kaltsoyannis,nik,EP/S01019X/1,01/10/2018,30/09/2023,TRANSCEND: Transformative Science and Engineering for,4587420
+N Kaltsoyannis,nik,EP/R029938/1,01/06/2018,31/05/2022,Complex made simple: Enantioselective radical cascades,543719
+M Stamatakis,sta,EP/T004282/1,16/05/2020,15/05/2023,CBET-EPSRC: Enhancing the CSMHyK fluid dynamics,487426
+M Stamatakis,sta,EP/R032807/1,01/10/2018,30/09/2023,Cognitive Chemical,2007487
+N Martsinovich,nat,EP/V007696/1,14/11/2020,13/11/2024,Near-Field Optical Spectroscopy Centre at Sheffield,1656502
+S Jarvis,jar,EP/V00767X/1,08/02/2021,07/07/2023,High performance Wide spectral range Nanoprobe,745943
+S Jarvis,jar,EP/S017836/1,01/01/2019,30/06/2020,Lancaster University ECR,150000
+S Murphy,mur,EP/S011935/1,01/12/2018,30/11/2023,ATLANTIC: Accident ToLerANT fuels In,2545630
+S Murphy,mur,EP/S01019X/1,01/10/2018,30/09/2023,TRANSCEND: Transformative Science and Engineering for,4587420
+S Murphy,mur,EP/S004505/1,01/02/2019,31/08/2022,A novel coating technology based upon,604590
+S Murphy,mur,EP/R006288/1,01/01/2018,31/12/2019,Development of Advanced Ceramic Breeder Materials,100914
+I Bush,ian,EP/W026775/1,01/12/2021,30/11/2024,Particles At eXascale on High Performance,3041191
+I Bush,ian,EP/V001507/1,01/05/2020,31/12/2021,Materials and Molecular Modelling Exascale Design,95728
+A Logsdail,log,EP/V056565/1,01/11/2021,31/10/2026,Sustainable Catalysis for Clean,2677823
+A Logsdail,log,EP/S030468/1,01/10/2019,30/09/2023,New trimetallic nanoparticles as catalysts for,1530291
+M Addicoat,add,EP/S015868/1,01/04/2019,31/12/2021,Origin and Mechanisms of Flexibility in,205833
+A Zeitler,jaz,EP/S023046/1,01/10/2019,31/03/2028,EPSRC Centre for Doctoral Training in,5545438
+R Crespo-Otero,rco,EP/T022213/1,01/01/2020,31/12/2023,The Materials and Molecular Modelling,4510208
+R Crespo-Otero,rco,EP/W032260/1,01/11/2021,31/03/2022,Introducing heterogeneous HPC solutions to UK's,757879
+R Crespo-Otero,rco,EP/R029385/1,01/08/2018,01/01/2021,Towards the Computational Design of Highly,202873
+S Ling,lin,EP/W030489/1,01/05/2022,30/04/2025,CP2K For Emerging Architectures And Machine,525899
+S Ling,lin,EP/V042556/1,01/09/2021,31/08/2024,Decarbonisation Of Food Cold Chain Through,972583
+F Baletto,fra,EP/W017075/1,16/05/2022,15/05/2028,New perspectives in photocatalysis and near-surface,7902074
+C Cucinotta,clo,EP/W030489/1,01/05/2022,30/04/2025,CP2K For Emerging Architectures And Machine,525899
+C Cucinotta,clo,EP/P033555/1,01/05/2018,30/04/2024,Towards a Parameter-Free Theory for Electrochemical,1291989
+J Buckeridge,jbu,EP/T026715/2,01/11/2021,28/05/2025,CCP-QC: Collaborative Computational Project - Quantum,140063
+J Buckeridge,jbu,EP/W00772X/2,01/11/2021,01/08/2024,Quantum Enhanced and Verified Exascale Computing,1007642
+J Buckeridge,jbu,EP/W00772X/1,02/08/2021,31/10/2021,Quantum Enhanced and Verified Exascale Computing,1015931
+J Buckeridge,jbu,EP/T026715/1,01/06/2020,31/10/2021,CCP-QC: Collaborative Computational Project - Quantum,163421
+Q Cai,cai,EP/W033178/1,01/04/2022,31/03/2023,Scalable metamaterial thermally sprayed catalyst coatings,240883
+Q Cai,cai,EP/R021554/2,01/01/2019,31/10/2021,ISCF Wave 1:Designing Electrodes for Na,806576
+Q Cai,cai,EP/R021554/1,01/01/2018,31/12/2018,ISCF Wave 1:Designing Electrodes for Na,1101992
+J Dawson,jad,EP/W031590/1,01/09/2022,29/02/2024,Transforming Parkinson's disease clinical management with,403409
+J Dawson,jad,EP/V013130/1,17/05/2021,16/05/2024,Mastering Ion Transport at the Microscale,347222
+N Dzade,dza,EP/S001395/1,29/06/2018,14/09/2021,Computer-aided design of zinc phosphide heterojunctions,525254
+J McGrady,mcg,EP/T027991/1,01/10/2020,30/09/2025,Exploiting the anion Chemistry of solids,1023098
+J McGrady,mcg,EP/T010681/1,01/04/2020,31/03/2023,Beyond cyanide: Future synthons based on,417021
+N Chilton,chi,EP/S033181/1,01/09/2019,31/08/2024,Magnetic Properties Measurement System for Manchester,732173
+N Chilton,chi,EP/R02605X/1,01/07/2018,31/12/2021,Targeting Molecular Magnetic Hysteresis at Liquid,437939
+N Bristowe,bri,EP/V053442/1,01/01/2022,30/06/2024,New directions in high temperature dielectrics:,77006
+N Bristowe,bri,EP/T022213/1,01/01/2020,31/12/2023,The Materials and Molecular Modelling,4510208
+G Booth,boo,EP/T022213/1,01/01/2020,31/12/2023,The Materials and Molecular Modelling,4510208
+G Booth,boo,EP/W032260/1,01/11/2021,31/03/2022,Introducing heterogeneous HPC solutions to UK's,757879
+M Rucsandra Filip,fil,EP/V010840/1,01/03/2021,31/08/2024,Metal halide semiconductors: materials discovery beyond,1366328
+M Salvalaglio,slv,EP/R018820/1,01/03/2018,29/02/2024,Crystallisation in the Real World: Delivering,5436236
+C Lekakou,lek,EP/W01114X/1,30/07/2021,29/01/2023,Development and manufacturing of innovative  low-cost,521709
+K Inzani,kin,EP/W028131/1,01/04/2022,31/03/2027,Theory-led Design of 2D Spin,1014377
+T Keal,,EP/W014378/1,01/04/2022,31/03/2026,Predictive multiscale free energy simulations of,682674
+T Keal,,EP/W026775/1,01/12/2021,30/11/2024,Particles At eXascale on High Performance,3041191
+T Keal,,EP/V001507/1,01/05/2020,31/12/2021,Materials and Molecular Modelling Exascale Design,95728
+T Keal,,EP/R001847/1,01/01/2018,30/04/2022,Transition metal controlled nitrogen chemistry in,1022120
